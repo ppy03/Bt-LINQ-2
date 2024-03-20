@@ -1,0 +1,7 @@
+D:\Hocki2 2023-2024\LaptrinhC#\BT LINQ 2\BT LINQ 2\bin\Debug\BT LINQ 2.exe.config
+D:\Hocki2 2023-2024\LaptrinhC#\BT LINQ 2\BT LINQ 2\bin\Debug\BT LINQ 2.exe
+D:\Hocki2 2023-2024\LaptrinhC#\BT LINQ 2\BT LINQ 2\bin\Debug\BT LINQ 2.pdb
+D:\Hocki2 2023-2024\LaptrinhC#\BT LINQ 2\BT LINQ 2\obj\Debug\BT LINQ 2.csproj.AssemblyReference.cache
+D:\Hocki2 2023-2024\LaptrinhC#\BT LINQ 2\BT LINQ 2\obj\Debug\BT LINQ 2.csproj.CoreCompileInputs.cache
+D:\Hocki2 2023-2024\LaptrinhC#\BT LINQ 2\BT LINQ 2\obj\Debug\BT LINQ 2.exe
+D:\Hocki2 2023-2024\LaptrinhC#\BT LINQ 2\BT LINQ 2\obj\Debug\BT LINQ 2.pdb
